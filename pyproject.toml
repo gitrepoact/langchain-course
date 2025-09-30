@@ -1,0 +1,14 @@
+[project]
+name = "intro-to-vector-dbs"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "black>=25.9.0",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.30",
+    "langchain-openai>=0.3.33",
+    "langchain-pinecone>=0.2.12",
+    "python-dotenv>=1.1.1",
+]

@@ -63,12 +63,9 @@ def main():
             continue
             # No tool calls -> final answer
         print(ai_message.content)
+
+       
         break
-
-
-
-
-
     
 if __name__ == "__main__":
     main()
